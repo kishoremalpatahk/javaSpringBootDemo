@@ -8,6 +8,7 @@
 <title>Home</title>
 <%@include file="links.jsp"%>
 </head>
+
 <body>
 	<%@include file="menu.jsp"%>
 	<div class="row">
